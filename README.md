@@ -18,11 +18,13 @@ O objetivo deste desafio é avaliarmos o seu domínio em desenvolvimento fullsta
 Um front com transições e cuidado aos detalhes aponta para um diferencial seu, mas não é necessário se preocupar muito com o design, apenas seguir a linha que esta sendo proposta. Afinal, não estamos buscando um designer para essa vaga!
 
 
-## Stack e requisitos técnicos
-Nosso stack é bem variado e buscamos sempre entender o projeto para definir a stack com seus pontos fortes e capacidade interna de produção.
+## Stack
+Nosso stack é bem variado e buscamos sempre entender o projeto para definir a stack com seus pontos fortes e capacidade interna de produção. Portanto você deve analisar como pode atender da melhor forma o projeto e tem liberdade para escolha da stack.
 
 - *Front-End*:  gostariamos de ver algo das tecnologias VueJS, React, Gatsbyjs, NextJS, GraphQL em nossas interfaces.
-- *Back-End*:  NodeJS, Python, .Net Core e/ou até PHP com algum framework por traz será aceito.
+- *Back-End*:  gostariamos de ver algo em NodeJS, Python, .Net Core e/ou até PHP com algum framework por traz será aceito.
+
+## REQUISITOS
 - Fornecer um README com instruções breves de deploy para alguém fazer o deploy seu código e uma visão geral do aplicativo implementado;
 - Todos os campos são de preenchimento obrigatório no formulário;
 - Considere responder a solicitações erradas ou mal formadas com códigos de status HTTP apropriados;
@@ -52,7 +54,8 @@ Você não é obrigado a escrever código para abordar esses pontos, mas deve co
 Prazo de 1 semana a partir do recebimento do e-mail com o link deste repositório.
 
 ## Entrega
-Através de Pull Request aqui no Github ou enviar um e-mail para raphael.sbegue@bizsys.com.br, com o assunto: [BIZSYS] - DESAFIO FULLSTACK e envie o link de seu repositório (github/bitbucket/gitlab..).
+- Através de Pull Request aqui no Github
+- OU envio de e-mail para raphael.sbegue@bizsys.com.br com o assunto: [BIZSYS] - DESAFIO FULLSTACK contendo o link de seu repositório do desafio (github/bitbucket/gitlab..).
 
 # Dúvidas
-Caso tenha alguma dúvida entre em contato pelo e-mail: raphael.sbegue@bizsys.com.br
+Caso tenha alguma dúvida entre em contato pelo e-mail: raphael.sbegue@bizsys.com.b
