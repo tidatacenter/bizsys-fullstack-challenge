@@ -9,9 +9,16 @@ Neste momento em que muitas empresas ensaiam um retorno, mesmo que parcial, nota
 Construir uma prova de conceito para uma cafeteria, onde o usuário deve scanear com seu celular o QR Code em um painel, realizar o pedido e acompanhar a produção e entrega do pedido no painel.
 
 A aplicação deve possuir basicamente 3 interfaces, sendo:
+
 - Display (1920x1080p): interface onde os usuários devem scanear o QR Code e serem informados qual o status do pedido (Em andamento, Pronto, Retirado);
+<img src="./assets/img/takeout-view.png" width="100%">
+
 - Smartphone: interface responsiva onde o usuário após scanear o QR Code será redirecionado para que realize o pedido e seja avisado quando puder retirar;
+<img src="./assets/img/mobile-view.png" width="40%">
+
 - Controle de pedidos (opcional): interface responsiva que deve ficar em um monitor para a equipe possa receber os pedidos, preparar e disponibilizar para entrega. A entrega deste item é opcional, porém se não houver a entrega deste item, necessitamos de instruções para que possamos alterar o status do pedido (POSTMAN endpoint);
+
+
 
 O objetivo deste desafio é avaliarmos o seu domínio em desenvolvimento fullstack, ou seja, sua organização, boas práticas com o código, criação e consumo de APIs Restfull, conhecimento dos frameworks e tecnologias utilizadas.
 
