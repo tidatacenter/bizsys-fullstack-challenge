@@ -4,8 +4,8 @@ Repositório do desafio para a vaga de full stack developer na BizSys.
 
 ## Tecnologias
 
-Back-end: NodeJS, lowdb
-Front-end: ReactJS, axios, qrcode.react e styled-components
+# Back-end: NodeJS, lowdb
+# Front-end: ReactJS, axios, qrcode.react e styled-components
 
 ## INICIAR O BACK END
 
